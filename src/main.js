@@ -6,6 +6,8 @@ import router from './router'
 import fastClick from 'fastclick'
 import VueAwesomeSwiper from 'vue-awesome-swiper'
 import axios from 'axios' // 1、在这里引入axios
+import store from './store'
+
 Vue.prototype.$axios = axios; 
 
 import 'swiper/dist/css/swiper.css'
@@ -20,6 +22,7 @@ Vue.use(VueAwesomeSwiper)
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
+  store,
   router,
   components: { App },
   template: '<App/>'
