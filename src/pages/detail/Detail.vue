@@ -5,11 +5,14 @@
        :bannerImg="bannerImg"
        :bannerImgs="gallaryImgs"
      ></detail-banner>
+     <detail-header></detail-header>
+     <div class="content"></div>
  </div>
 </template>
 
 <script>
 import DetailBanner from './components/Banner'
+import DetailHeader from './components/Header'
  export default {
    name: 'Detail',
    data () {
@@ -22,6 +25,7 @@ import DetailBanner from './components/Banner'
    },
    components: {
        DetailBanner,
+       DetailHeader,
    },
    methods:{
        getDetailInfo() {
@@ -51,6 +55,6 @@ import DetailBanner from './components/Banner'
 
 <style scoped>
 .content{
-    height: rem 
+    height: 50rem 
 }
 </style>
