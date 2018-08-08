@@ -3,7 +3,19 @@
   "data": {
     "sightName": "大连圣亚海洋世界(AAAA景区)",
     "bannerImg": "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_600x330_bf9c4904.jpg",
-    "gallaryImgs": ["http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_800x800_70debc93.jpg", "http://img1.qunarzz.com/sight/p0/1709/76/7691528bc7d7ad3ca3.img.png_800x800_9ef05ee7.png"],
+    "gallaryImgs": [
+      "http://img1.qunarzz.com/sight/p0/201404/23/04b92c99462687fa1ba45c1b5ba4ad77.jpg_800x800_70debc93.jpg", 
+      "http://img1.qunarzz.com/sight/p0/1709/76/7691528bc7d7ad3ca3.img.png_800x800_9ef05ee7.png",
+      "http://img1.qunarzz.com/sight/p0/1610/2d/2d69be89af863057a3.img.jpg_350x240_5ddf6aef.jpg",
+      "http://img1.qunarzz.com/sight/p0/1610/e7/e7d7758d82fc203aa3.img.jpg_350x240_b947b392.jpg",
+      "http://img1.qunarzz.com/sight/p0/1610/45/456ad902d33aaf8ea3.img.jpg_350x240_26e54e81.jpg",
+      "http://img1.qunarzz.com/sight/p0/1411/1b/b79fb3c3d12db4bbcc0f46821ac00ead.water.jpg_350x240_9effdd78.jpg",
+      "http://img1.qunarzz.com/sight/p0/1509/11/11f48afdd282f695.img.jpg_350x240_98ad69ed.jpg",
+      "http://img1.qunarzz.com/sight/p0/1509/5c/5cd3f38161f3830e.img.jpg_350x240_9cadbce5.jpg",
+      "http://img1.qunarzz.com/sight/p0/1501/72/72527607f13057b1.water.jpg_350x240_a4f9cec6.jpg",
+      "http://img1.qunarzz.com/sight/p0/1507/d8/5962277db9ffa79526ac564162b23100.water.jpg_350x240_ea5c0fdd.jpg",
+      "http://img1.qunarzz.com/sight/p0/1709/77/779d3b8b573c73c4a3.img.png_350x240_7ea05ed1.png"
+    ],
     "categoryList": [{
         "title": "成人票",
         "children": [{
