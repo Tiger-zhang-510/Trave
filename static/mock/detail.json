@@ -17,7 +17,7 @@
       "http://img1.qunarzz.com/sight/p0/1709/77/779d3b8b573c73c4a3.img.png_350x240_7ea05ed1.png"
     ],
     "categoryList": [{
-        "title": "成人票",
+        "title": "活动促销",
         "children": [{
           "title": "成人三馆联票",
           "children": [{
@@ -27,11 +27,11 @@
           "title": "成人五馆联票"
         }]
       }, {
-        "title": "学生票"
+        "title": "五馆套票"
       }, {
-        "title": "儿童票"
+        "title": "四馆套票"
       }, {
-        "title": "特惠票"
+        "title": "单馆票"
       }]
   }
 }

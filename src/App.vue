@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <keep-alive>
+      <keep-alive exclude="Detail"><!--除了detail组建以外的组建都缓存-->
       <router-view/>
     </keep-alive>
   </div>
