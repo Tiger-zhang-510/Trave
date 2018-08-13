@@ -7,8 +7,22 @@
 </template>
 
 <script>
+import jsonp from 'common/js/jsonp'
 export default {
-  name: 'App'
+  name: 'App',
+  created: function() {
+    getRecommend().then((res) => {
+      console.log(res.data)
+    })
+  }
+}
+function getRecommend() {
+  const url = 'https://touch.piao.qunar.com/touch/list.json'
+  const data = {}
+  const options = {
+    param: 'jsonpCallback'
+  }
+  return jsonp(url, data, options)
 }
 </script>
 
